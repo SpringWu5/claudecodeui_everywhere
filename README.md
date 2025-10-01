@@ -2,7 +2,7 @@
 
 **让你的 Claude Code UI 真正实现随时随地访问！**
 
-这个项目是 [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) 的一个 Fork，旨在提供一个开箱即用的解决方案，让你能够通过一个稳定的公共域名，在任何设备（包括手机）上安全地访问和操作你本地的 Claude Code 实例。
+这个项目是 [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) 的一个 Fork，旨在提供一个开箱即用的解决方案，让你能够通过一个稳定的公共域名，在任何设备（包括手机）上，在任何有网络连接的地方（车上/餐厅/公园，everywhere!）安全地访问和操作你本地的 Claude Code 实例。
 
 ## ✨ 特性
 
@@ -21,7 +21,7 @@
 ```bash
 # 克隆仓库并运行安装脚本
 git clone https://github.com/SpringWu5/claude-code-everywhere.git
-cd claude-code-everywhere
+cd claude-code-everywhere/scripts
 ./setup.sh
 ```
 
